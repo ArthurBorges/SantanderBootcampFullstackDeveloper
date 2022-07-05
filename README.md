@@ -4,7 +4,9 @@ Repositório do bootcamp Santander Fullstack Developer dentro da plataforma da D
 ### Módulo 0 - Prepare-se para a jornada
 
 ### Módulo 1 - Conteúdo de abertura
-[Primeiro Desafio](https://github.com/ArthurBorges/dio-desafio-github)
+- Introdução à Programação e Pensamento Computacional
+- Introdução ao Git e ao GitHub
+- [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://github.com/ArthurBorges/dio-desafio-github)
 
 ### Módulo 2 - HTML/CCS3/JS
 
