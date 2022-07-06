@@ -1,6 +1,6 @@
 # Introdução a criação de websites com HTML5 e CSS3
 
-## Introdução ao HTML5
+## Introdução ao curso de HTML5
 
 ### Estrutura Básica
 Elemento HTML: TAG atributo Conteúdo FechamentoTAG  
@@ -16,3 +16,14 @@ Estrutura básica: elemento html/ elemento head (meta title)/ elemento body
 >     Arthur Borges
 >   </body>
 > </html>
+
+## Entendendo o que é Semântica
+
+Inicialmente no HTML existia apenas o elemento div para organização, o que gerava uma "bagunça".  
+Com o HTML5 surgiram novos elementos:  
+- section: representa uma seção genérica de conteúdo
+- header: cabeçalho de uma página
+- article: conteúdo relevante de uma página
+- aside: representa um conteúdo relacionado ao conteúdo principal da página
+- footer: rodapé
+- h1 - h6: importância de um título dentro de uma página
