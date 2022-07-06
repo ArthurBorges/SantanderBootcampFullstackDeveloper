@@ -9,6 +9,7 @@ Repositório do bootcamp Santander Fullstack Developer dentro da plataforma da D
 - [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://github.com/ArthurBorges/dio-desafio-github)
 
 ### Módulo 2 - HTML/CCS3/JS
+- Introdução a criação de websites com HTML5 e CSS3
 
 ### Módulo 3 - ANGULAR
 
