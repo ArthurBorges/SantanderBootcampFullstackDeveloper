@@ -28,7 +28,6 @@ Com o HTML5 surgiram novos elementos:
 - h1 - h6: importância de um título dentro de uma página
 
 ## Como usar textos e links em HTML
-
 ### Tags para textos
 Elemento p: Textos maiores e mais densos. Suporta textos, imagens, códigos, vídeos e outros tipos.
 
@@ -36,6 +35,11 @@ Elemento p: Textos maiores e mais densos. Suporta textos, imagens, códigos, ví
 Elemento a: âncora. Interliga vários conteúdos na web. Possui vários atributos, entre eles href e target
 
 ## Como inserir imagens em seu site
-
 ### Tag img
 Elemento img possui apenas dois atributos: src e alt.
+
+## Como organizar listas com HTML
+### Tags li, ul e ol
+- li: item da lista
+- ul: lista aonde a ordem dos itens não é importante
+- ol: lista aonde a ordem dos itens é importante
