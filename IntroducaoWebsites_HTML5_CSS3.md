@@ -51,3 +51,7 @@ Elemento img possui apenas dois atributos: src e alt.
 - Id(.) x Classe(#): diferenciam os seletores. O id pode ser utilizado uma vez na página.
  
 ### Conceitos básicos
+No layout de um site, o navegador intepreta cada elemento html como uma box retangular (Box Model). Este é dividido em quatro áreas: margem, borda, padding e conteúdo.  
+
+
+
