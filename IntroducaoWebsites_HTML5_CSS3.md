@@ -32,7 +32,7 @@ Com o HTML5 surgiram novos elementos:
 Elemento p: Textos maiores e mais densos. Suporta textos, imagens, códigos, vídeos e outros tipos.
 
 ### Tags para links
-Elemento a: âncora. Interliga vários conteúdos na web. Possui vários atributos, entre eles href e target
+Elemento a: âncora. Interliga vários conteúdos na web. Possui vários atributos, entre eles href e target.
 
 ## Como inserir imagens em seu site
 ### Tag img
@@ -40,6 +40,14 @@ Elemento img possui apenas dois atributos: src e alt.
 
 ## Como organizar listas com HTML
 ### Tags li, ul e ol
-- li: item da lista
-- ul: lista aonde a ordem dos itens não é importante
-- ol: lista aonde a ordem dos itens é importante
+- li: item da lista.
+- ul: lista aonde a ordem dos itens não é importante.
+- ol: lista aonde a ordem dos itens é importante.
+
+## Introdução e conceitos básicos do CSS3
+### Introdução ao CSS3
+- Definição: Criar regras de estilos para elementos ou grupos de elementos.
+- Seletores: São elementos no html, que receberão declaraçãoes.
+- Id(.) x Classe(#): diferenciam os seletores. O id pode ser utilizado uma vez na página.
+ 
+### Conceitos básicos
