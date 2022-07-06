@@ -34,3 +34,8 @@ Elemento p: Textos maiores e mais densos. Suporta textos, imagens, códigos, ví
 
 ### Tags para links
 Elemento a: âncora. Interliga vários conteúdos na web. Possui vários atributos, entre eles href e target
+
+## Como inserir imagens em seu site
+
+### Tag img
+Elemento img possui apenas dois atributos: src e alt.
