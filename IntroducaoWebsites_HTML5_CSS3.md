@@ -2,7 +2,7 @@
 
 ## Introdução ao HTML5
 
-###Estrutura Básica
+### Estrutura Básica
 Elemento HTML: TAG atributo Conteúdo FechamentoTAG  
 Estrutura básica: elemento html/ elemento head (meta title)/ elemento body  
 
