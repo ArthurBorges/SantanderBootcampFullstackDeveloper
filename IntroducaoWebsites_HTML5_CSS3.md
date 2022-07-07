@@ -52,6 +52,12 @@ Elemento img possui apenas dois atributos: src e alt.
  
 ### Conceitos básicos
 No layout de um site, o navegador intepreta cada elemento html como uma box retangular (Box Model). Este é dividido em quatro áreas: margem, borda, padding e conteúdo.  
+## Estilizando elementos, textos e listas
+### Estilizando elementos
+- Padding e margin
+- Background
+- Border
+### Estilizando textos
 
-
+### Estilizando listas
 
