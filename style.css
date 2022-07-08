@@ -6,6 +6,7 @@ body{
 .photo{
   margin-bottom: 15px;
   border-radius: 50%;
+  width: 100px;
  }
 
 #title, .subtitle, .post_title{

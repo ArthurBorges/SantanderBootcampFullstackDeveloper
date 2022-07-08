@@ -49,9 +49,9 @@ Elemento img possui apenas dois atributos: src e alt.
 - Definição: Criar regras de estilos para elementos ou grupos de elementos.
 - Seletores: São elementos no html, que receberão declaraçãoes.
 - Id(.) x Classe(#): diferenciam os seletores. O id pode ser utilizado uma vez na página.
- 
 ### Conceitos básicos
 No layout de um site, o navegador intepreta cada elemento html como uma box retangular (Box Model). Este é dividido em quatro áreas: margem, borda, padding e conteúdo.  
+
 ## Estilizando elementos, textos e listas
 ### Estilizando elementos
 - Padding e margin
@@ -64,6 +64,11 @@ No layout de um site, o navegador intepreta cada elemento html como uma box reta
 - Font-weight
 - Text-transform
 - Text-decoration
-
 ### Estilizando listas
 - List-style-type: square, upper-roman
+
+## Dimensão e alinhamento
+- Width / height
+- Max-width / max-height 
+- Margin
+- Text-align
