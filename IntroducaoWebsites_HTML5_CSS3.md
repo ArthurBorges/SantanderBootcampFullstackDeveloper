@@ -58,6 +58,12 @@ No layout de um site, o navegador intepreta cada elemento html como uma box reta
 - Background
 - Border
 ### Estilizando textos
+- Font-family
+- Font-size
+- Font-style
+- Font-weight
+- Text-transform
+- Text-decoration
 
 ### Estilizando listas
-
+- List-style-type: square, upper-roman
