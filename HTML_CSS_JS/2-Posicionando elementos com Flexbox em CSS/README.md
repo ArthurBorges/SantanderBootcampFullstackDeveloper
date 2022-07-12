@@ -77,16 +77,34 @@ Tipos de alinhamentos:
 
 # Fundamentos da Flexbox - Parte 2
 ## Estrutura básica e prática com flex grow
+Flex-grow:
+>Define a proporcionalidade de crescimentos dos itens, respeitando o tamanho de seus conteúdos internos. OBS: não irá funcionar caso tenhamos adicionado justify-content ao nosso flex container
 
 ## Estrutura básica e prática com flex basis
+Flex-basis:
+>É a propriedade que vai estabelecer o tamanho inicial do item antes da distribuição de espaço restante dentro dele, usando como base o conteúdo interno disposto.
 
 ## Estrutura básica e prática com flex shrink
+Flex-shrink:
+>É a propriedade que estabelecer a capacidade de redução ou compressão do tamanho de um item.
 
 ## Estrutura básica e prática com flex
+Flex:
+>Esta propriedade é um atalho ou abreviação de escrita para as propriedades: grow, shrink e basis.
 
 ## Estrutura básica e prática com order
 
 ## Estrutura básica e prática com align self
+Align-self:
+>É a propriedade que estabelece o alinhamento de modo individual sobre um determinado item.
+
+Valores possíveis
+- auto: valor padrão, irá respeitar a definição de align-items do container
+- flex-start: ao início do container
+- flex-end: ao final do container
+- center: relativo ao centro de acordo com o eixo
+- stretch: ocupa todo os espaço relativo
+- baseline: utiliza a linha base da tipografia
 
 # Projeto Integrador
 ## Apresentação e preparação do projeto
