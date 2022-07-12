@@ -33,7 +33,7 @@ Flex-wrap:
 
 ## Estrutura básica e prática com flex flow
 Flex-flow:
->É um atalho para as propriedades flex-direction e flex-wrap.
+>É um atalho para as propriedades flex-direction e flex-wrap. Porém seu uso não é tão comum, visto que, quando mudamos o flex-direction para column, mantemos o padrão do flex-wrap que é nowrap.
 
 ## Estrutura básica com justify content
 
