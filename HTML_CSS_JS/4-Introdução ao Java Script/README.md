@@ -7,6 +7,7 @@
 1 - Entender a história da linguagem
 - Interpretada: rodada em tempo real, código disponibilizada instantaneamente.
 - Baseada em Protótipos
+- Multiparadigma
 
 ## Recursos básicos da linguagem
 ## Console
