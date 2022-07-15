@@ -1,8 +1,7 @@
 # Sintaxe e Operadores JavaScript
 
-## Ooeradores
+## Operadores
 ### Apresentação do curso
-
 ### Operadores
 
 ## Atividade prática
