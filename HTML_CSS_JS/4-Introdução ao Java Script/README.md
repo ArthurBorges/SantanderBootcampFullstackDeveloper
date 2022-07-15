@@ -2,7 +2,7 @@
 
 ## O que é Javascript?
 ### Apresentação do curso
-Stephany Nusch
+Stephany Nusch  
 Github: stebsnusch
 
 ### História, evolução e aplicações
@@ -16,7 +16,7 @@ Github: stebsnusch
 
 2 - Evolução: Criada em 1997
 
-3 - Aplicação: 
+3 - Aplicação 
 
 ## Recursos básicos da linguagem
 ## Console
