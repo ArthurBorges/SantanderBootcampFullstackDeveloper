@@ -37,7 +37,7 @@ Flex-flow:
 
 ## Estrutura básica com justify content
 Justify-Content:
->Essa propriedade vai se encarregar de alinhr os itens dentro do container de acordo com a direção pretendida e tratar a distribuição de espaçamento entre eles. OBS.: Caso o seus itens estejam ocupando 100% de todo o container, ela não se aplica.
+>Essa propriedade vai se encarregar de alinhar os itens dentro do container de acordo com a direção pretendida e tratar a distribuição de espaçamento entre eles. OBS.: Caso o seus itens estejam ocupando 100% de todo o container, ela não se aplica.
 
 Variações:
 - flex-start: ínicio do container.
