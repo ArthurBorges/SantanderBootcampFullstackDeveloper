@@ -10,16 +10,17 @@ Github: stebsnusch
 - Baseada em Protótipos
 - Multiparadigma: pode variar entre POO, Pfuncional ou Pestruturada.
 - Comumente utilizada em aplicações web client-side: Interação com o cliente. Interpretada pelos browser.
-- Segue o padrão ECMAScript  
+- Segue o padrão ECMAScript
+
 2 - Evolução: Criada em 1997  
 3 - Aplicação
 
 ## Recursos básicos da linguagem
 ### Manipulando um arquivo
 ### Funções
->function soma(a, b){
->    return a+b;
->}
+function soma(a, b){  
+    return a+b;  
+}  
 
 ## Console
 ### Executando um arquivo .js
