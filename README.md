@@ -11,7 +11,7 @@ Repositório do bootcamp Santander Fullstack Developer dentro da plataforma da D
 ### Módulo 2 - HTML/CCS3/JS
 - Introdução a criação de websites com HTML5 e CSS3
 - Posicionando elementos com Flexbox em CSS
-- [Recriando a página inicial do Instagram]()
+- [Recriando a página inicial do Instagram](https://github.com/ArthurBorges/desafioDIO-Instagram.git)
 - Introdução ao JavaScript
 
 ### Módulo 3 - ANGULAR
