@@ -8,6 +8,8 @@
 - Interpretada: rodada em tempo real, código disponibilizada instantaneamente.
 - Baseada em Protótipos
 - Multiparadigma
+- Comumente utilizada em aplicações web client-side
+- Segue o padrão ECMAScript
 
 ## Recursos básicos da linguagem
 ## Console
