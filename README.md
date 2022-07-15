@@ -13,6 +13,7 @@ Repositório do bootcamp Santander Fullstack Developer dentro da plataforma da D
 - Posicionando elementos com Flexbox em CSS
 - [Recriando a página inicial do Instagram](https://github.com/ArthurBorges/desafioDIO-Instagram.git)
 - Introdução ao JavaScript
+- Sintaxe e Operadores JS
 
 ### Módulo 3 - ANGULAR
 
