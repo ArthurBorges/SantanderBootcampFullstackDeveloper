@@ -17,6 +17,7 @@ Dados primitivos (não tem metodos dentro deles) x Dados compostos(Obejtos e arr
 ### Booleans
 ### Arrays
 Push (adiciona no final da lista), pop (remove do final da lista), shift (remove do começo da lista), unshift (adiciona no começo da lista)
+
 ### Objetos
 ### Empty, undefined e null
 
