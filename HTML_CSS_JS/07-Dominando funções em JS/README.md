@@ -8,7 +8,7 @@ Função anônima: representam expressões e não possuem nomes. Uma variável p
 Função autoinvocável: é declarada dentro de um par de parenteses seguido por outro par de parenteses.  
 
 Callback: Uma função passada como argumento para outra.  
-![Exemplo de callback](/callback.png)
+![Exemplo de callback](./callback.png)
 
 ## Parâmetros
 ### Valores padrão e Objeto "arguments"
