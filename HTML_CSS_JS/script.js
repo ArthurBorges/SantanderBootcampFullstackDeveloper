@@ -3,7 +3,7 @@ class ContaBancaria{
 		this.agencia = agencia;
 		this.numero = numero;
 		this.tipo = tipo;
-		this._saldo = saldo;
+		this._saldo = 0;
 	}
 
 	get saldo(){
@@ -31,8 +31,8 @@ class ContaBancaria{
 }
 
 class ContaCorrente extends ContaCorrente{
-	constructor(agencia, numero, saldo){
-		super(agencia, numero, saldo, cartaoCredito);
+	constructor(agencia, numero){
+		super(agencia, numero, cartaoCredito);
 		this.tipo = 'corrente';
 		this._cartaoCredito = cartaoCredito;
 	}
@@ -47,15 +47,15 @@ class ContaCorrente extends ContaCorrente{
 }
 
 class ContaPoupanca extends ContaCorrente{
-	constructor(agencia, numero, saldo){
-		super(agencia, numero, saldo);
+	constructor(agencia, numero){
+		super(agencia, numero);
 		this.tipo = 'poupança';
 	}
 }
 
 class ContaUniversitaria extends ContaCorrente{
-	constructor(agencia, numero, saldo){
-		super(agencia, numero, saldo);
+	constructor(agencia, numero){
+		super(agencia, numero);
 		this.tipo = 'universitaria';
 	}
 
