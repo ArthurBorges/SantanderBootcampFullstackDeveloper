@@ -30,7 +30,7 @@ class ContaBancaria{
 	}
 }
 
-class ContaCorrente{
+class ContaCorrente extends ContaCorrente{
 	constructor(agencia, numero, saldo){
 		super(agencia, numero, saldo, cartaoCredito);
 		this.tipo = 'corrente';
@@ -46,14 +46,14 @@ class ContaCorrente{
 	}
 }
 
-class ContaPoupanca{
+class ContaPoupanca extends ContaCorrente{
 	constructor(agencia, numero, saldo){
 		super(agencia, numero, saldo);
 		this.tipo = 'poupança';
 	}
 }
 
-class ContaUniversitaria{
+class ContaUniversitaria extends ContaCorrente{
 	constructor(agencia, numero, saldo){
 		super(agencia, numero, saldo);
 		this.tipo = 'universitaria';
