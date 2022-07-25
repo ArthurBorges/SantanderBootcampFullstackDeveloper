@@ -14,8 +14,13 @@ Repositório do bootcamp Santander Fullstack Developer dentro da plataforma da D
 - [Recriando a página inicial do Instagram](https://github.com/ArthurBorges/desafioDIO-Instagram.git)
 - Introdução ao JavaScript
 - Sintaxe e Operadores JS
-- Variáveis e tipos com Java Script
-- Domindo funções em Java Script
+- Variáveis e tipos com JavaScript
+- Domindo funções em JavaScript
+- Mapas e conjuntos com JavaScript
+- Map, filter e reduce
+- Debugging e Error Handling com JavaScript
+- Fundamentos de JavaScript Assíncrono
+- Orientação a Objetos com JavaScript
 
 ### Módulo 3 - ANGULAR
 
