@@ -21,6 +21,10 @@ Repositório do bootcamp Santander Fullstack Developer dentro da plataforma da D
 - Debugging e Error Handling com JavaScript
 - Fundamentos de JavaScript Assíncrono
 - Orientação a Objetos com JavaScript
+- Trabalhando com módulos em JavaScript
+- Manipulando a D.O.M. com JavaScript
+- Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
+- Introdução Prática ao TypeScript
 
 ### Módulo 3 - ANGULAR
 
